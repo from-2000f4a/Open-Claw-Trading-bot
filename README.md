@@ -1,5 +1,4 @@
-# Open-Claw-Trading-bot
-Open Claw Trading bot
+
 # 🚀 Open Claw — AI Trading Agent for Polymarket & Prediction Markets
 
 **SEO keywords:** AI trading bot Polymarket, prediction market automation, AI trading agent setup, crypto prediction trading dashboard, automated trading system
@@ -30,7 +29,7 @@ Below is an example of a **fully configured AI trading dashboard** for Open Claw
 * 💼 Portfolio + PnL tracking
 * ⚡ Execution panel
 
-Modern AI dashboards combine **real-time analytics + AI predictions + execution**, enabling traders to detect mispriced markets and act instantly ([PolyEdge AI][1])
+Modern AI dashboards combine **real-time analytics + AI predictions + execution**, enabling traders to detect mispriced markets and act instantly 
 
 ---
 
