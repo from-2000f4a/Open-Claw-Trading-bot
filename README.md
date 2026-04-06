@@ -10,13 +10,17 @@ Open Claw Trading bot
 
 Below is an example of a **fully configured AI trading dashboard** for Open Claw, similar to professional terminals used in prediction markets like Polymarket.
 
-![Image](https://whales.market/blog/content/images/2025/12/Betting-on-Polymarket.png)
+![Image]<img width="1600" height="889" alt="wewe" src="https://github.com/user-attachments/assets/01731879-8c59-4eec-bf6e-89ad30a79c98" />
 
-![Image](https://polymark.et/screen-stand.jpg)
 
-![Image](https://media2.dev.to/dynamic/image/width%3D800%2Cheight%3D%2Cfit%3Dscale-down%2Cgravity%3Dauto%2Cformat%3Dauto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgf7ampiu4csqg059bqxo.jpg)
+![Image]![sds](https://github.com/user-attachments/assets/4750ac6e-eddb-466b-ad69-7d228516d061)
 
-![Image](https://whales.market/blog/content/images/2025/12/okbet.png)
+
+![Image]![sfsd](https://github.com/user-attachments/assets/b616b091-3eab-4ee1-9ceb-e03a8ac88193)
+
+
+![Image]<img width="3648" height="4672" alt="image" src="https://github.com/user-attachments/assets/339dc195-2f79-47ef-a93b-6ea6ddcb3d2e" />
+
 
 ### Key dashboard modules:
 
