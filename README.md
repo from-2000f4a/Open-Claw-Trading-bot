@@ -13,7 +13,7 @@ Below is an example of a **fully configured AI trading dashboard** for Open Claw
 <img width="1600" height="889" alt="wewe" src="https://github.com/user-attachments/assets/01731879-8c59-4eec-bf6e-89ad30a79c98" />
 
 
-[sds](https://github.com/user-attachments/assets/4750ac6e-eddb-466b-ad69-7d228516d061)
+<img [sds](https://github.com/user-attachments/assets/4750ac6e-eddb-466b-ad69-7d228516d061)>
 
 
 [sfsd](https://github.com/user-attachments/assets/b616b091-3eab-4ee1-9ceb-e03a8ac88193)
