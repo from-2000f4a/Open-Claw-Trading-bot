@@ -1,7 +1,7 @@
 
 # 🚀 Open Claw — AI Trading Agent for Polymarket & Prediction Markets
 
-**SEO keywords:** AI trading bot Polymarket, prediction market automation, AI trading agent setup, crypto prediction trading dashboard, automated trading system
+Open Claw is an AI-powered trading agent built for automated trading on prediction markets like Polymarket. It analyzes market probabilities, news, and sentiment using advanced language models to identify mispriced events and generate profitable trading signals. Designed for both retail and quantitative traders, Open Claw executes trades in real time while managing risk through configurable strategies. By combining AI reasoning with market data, it transforms prediction market trading into a fully automated, data-driven process. Ideal for users seeking scalable, algorithmic exposure to event-based markets and probabilistic trading opportunities.
 
 ---
 
